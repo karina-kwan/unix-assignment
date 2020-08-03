@@ -1,5 +1,5 @@
 README.md: guessinggame.sh 
-	echo "The title of the project is unix-assignment" > README.md 
+	echo "The guessing game" > README.md 
 	echo "" >> README.md
 	date >> README.md 
 	echo "" >> README.md

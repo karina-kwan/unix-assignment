@@ -1,6 +1,6 @@
-The title of the project is unix-assignment
+The guessing game
 
-Mon Aug  3 14:21:09 EDT 2020
+Mon Aug  3 14:25:17 EDT 2020
 
 guessinggame.sh has
 25
